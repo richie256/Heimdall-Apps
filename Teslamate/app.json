@@ -1,0 +1,10 @@
+{
+    "appid": "dfa066512bcff7f6013c245ca08587bf6561d4e2",
+    "name": "Teslamate",
+    "website": "https://github.com/adriankumpf/teslamate",
+    "license": "MIT License",
+    "description": "A powerful, self-hosted data logger for your Tesla.\r\n\r\n    Written in Elixir\r\n    Data is stored in a Postgres database\r\n    Visualization and data analysis with Grafana\r\n    Vehicle data is published to a local MQTT Broker",
+    "enhanced": true,
+    "tile_background": "light",
+    "icon": "teslamate.svg"
+}
